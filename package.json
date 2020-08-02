@@ -1,7 +1,0 @@
-{
-  "name": "opencv",
-  
-  "description": "OpenCV in JavaScript",
-  "main": "opencv.js",
-  
-}
